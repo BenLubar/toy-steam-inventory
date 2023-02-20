@@ -1,14 +1,14 @@
 Simulating total drops for 5000 players playing for 30 days...
 
-21822609x		#4010 Carbon (Crafting Item)		rarity:common;crafting_item:ultra_common
-2896992x		#4009 Loose Wires (Crafting Item)		rarity:common;crafting_item:ultra_common
-104527x		#4005 Plastics (Crafting Item)		rarity:common;crafting_item:common
-104258x		#4003 Electrical Components (Crafting Item)		rarity:common;crafting_item:common
-81375x		#4004 Pipe Section (Crafting Item)		rarity:common;crafting_item:common
-81188x		#4002 Scrap Metal (Crafting Item)		rarity:common;crafting_item:common
-58547x		#4007 Crate (Crafting Item)		rarity:common;crafting_item:common
-58483x		#4008 Battery Pack (Crafting Item)		rarity:common;crafting_item:common
-35031x		#4006 Coolant (Crafting Item)		rarity:common;crafting_item:common
+21846945x		#4010 Carbon (Crafting Item)		rarity:common;crafting_item:ultra_common
+2899756x		#4009 Loose Wires (Crafting Item)		rarity:common;crafting_item:ultra_common
+104607x		#4005 Plastics (Crafting Item)		rarity:common;crafting_item:common
+104373x		#4003 Electrical Components (Crafting Item)		rarity:common;crafting_item:common
+81429x		#4004 Pipe Section (Crafting Item)		rarity:common;crafting_item:common
+81248x		#4002 Scrap Metal (Crafting Item)		rarity:common;crafting_item:common
+58591x		#4007 Crate (Crafting Item)		rarity:common;crafting_item:common
+58522x		#4008 Battery Pack (Crafting Item)		rarity:common;crafting_item:common
+35076x		#4006 Coolant (Crafting Item)		rarity:common;crafting_item:common
 31992x		#4024 Roll of Vent Tape (Crafting Item)		rarity:common;crafting_item:regional
 30667x		#4023 Unopened SynUp Cola (Crafting Item)		rarity:common;crafting_item:regional
 27504x		#4021 Cooled Volcanic Rock (Crafting Item)		rarity:common;crafting_item:regional
@@ -18,125 +18,125 @@ Simulating total drops for 5000 players playing for 30 days...
 12303x		#4022 Retrieved Documents (Crafting Item)		rarity:common;crafting_item:regional
 10965x		#4020 Corrosive Fluid Sample (Crafting Item)		rarity:common;crafting_item:regional
 5797x		#4012 Biomass Sample (Crafting Item)		rarity:uncommon;crafting_item:alien_part
-5793x		#4011 Alien Chitin (Crafting Item)		rarity:uncommon;crafting_item:alien_part
-5753x		#4013 Glowing Green Acid (Crafting Item)		rarity:uncommon;crafting_item:alien_part
-5692x		#4014 Claw Fragment (Crafting Item)		rarity:uncommon;crafting_item:alien_part
+5786x		#4011 Alien Chitin (Crafting Item)		rarity:uncommon;crafting_item:alien_part
+5734x		#4013 Glowing Green Acid (Crafting Item)		rarity:uncommon;crafting_item:alien_part
+5708x		#4014 Claw Fragment (Crafting Item)		rarity:uncommon;crafting_item:alien_part
 393x		#4016 Arithmetic Logic Unit (Crafting Item)		rarity:rare;crafting_item:computer_part
-376x		#4017 Data Storage Medium (Crafting Item)		rarity:rare;crafting_item:computer_part
-363x		#4015 Memory Management Unit (Crafting Item)		rarity:rare;crafting_item:computer_part
-165x		#2001* 22A7-Z Prototype Assault Rifle (Weapon)		rarity:strange;class_restriction:tech;strange:Aliens Killed
-163x		#2001* 22A7-Z Prototype Assault Rifle (Weapon)		rarity:strange;class_restriction:tech;strange:Missions
-149x		#3001* Hand Welder (Equipment)		rarity:strange;strange:Missions
-101x		#3005* X33 Damage Amplifier (Equipment)		rarity:strange;strange:Missions
-92x		#5005 Enemies Frozen (Strange Device)		strange:5005
-91x		#2003* M42 Vindicator (Weapon)		rarity:strange;class_restriction:officer;strange:Missions
-89x		#2003* M42 Vindicator (Weapon)		rarity:strange;class_restriction:officer;strange:Aliens Killed
-88x		#3011* M478 Proximity Incendiary Mines (Equipment)		rarity:strange;class_restriction:officer;strange:Aliens Killed
-86x		#5000 Missions (Strange Device)		strange:5000
-80x		#3011* M478 Proximity Incendiary Mines (Equipment)		rarity:strange;class_restriction:officer;strange:Missions
-79x		#5001 Successful Missions (Strange Device)		strange:5001
-74x		#5003 Healing (Strange Device)		strange:5003
-71x		#5004 Fast Hacks (Strange Device)		strange:5004
-69x		#5002 Aliens Killed (Strange Device)		strange:5002
-68x		#2018* Chainsaw (Weapon)		rarity:strange;strange:Missions
-63x		#5006 Allies Extinguished (Strange Device)		strange:5006
-59x		#2015* IAF Minigun (Weapon)		rarity:strange;class_restriction:specialweapons;strange:Aliens Killed
-59x		#2018* Chainsaw (Weapon)		rarity:strange;strange:Aliens Killed
-55x		#2022* IAF HAS42 Devastator (Weapon)		rarity:strange;class_restriction:specialweapons;strange:Aliens Killed
-54x		#2002* S23A SynTek Autogun (Weapon)		rarity:strange;class_restriction:specialweapons;strange:Aliens Killed
-50x		#2015* IAF Minigun (Weapon)		rarity:strange;class_restriction:specialweapons;strange:Missions
-45x		#2002* S23A SynTek Autogun (Weapon)		rarity:strange;class_restriction:specialweapons;strange:Missions
-39x		#3007* CR18 Freeze Grenades (Equipment)		rarity:strange;strange:Missions
-38x		#2007* IAF Ammo Satchel (Weapon)		rarity:strange;strange:Missions
-38x		#2022* IAF HAS42 Devastator (Weapon)		rarity:strange;class_restriction:specialweapons;strange:Missions
-38x		#3007* CR18 Freeze Grenades (Equipment)		rarity:strange;strange:Allies Extinguished
-38x		#3017* TG-05 Gas Grenades (Equipment)		rarity:strange;class_restriction:medic;strange:Aliens Killed
-32x		#3007* CR18 Freeze Grenades (Equipment)		rarity:strange;strange:Enemies Frozen
-31x		#1000* Sarge's Suit (Suit)		rarity:strange;class_restriction:officer;strange:Successful Missions
-31x		#2006* IAF Heal Beacon (Weapon)		rarity:strange;class_restriction:medic;strange:Missions
-31x		#3017* TG-05 Gas Grenades (Equipment)		rarity:strange;class_restriction:medic;strange:Missions
-29x		#2006* IAF Heal Beacon (Weapon)		rarity:strange;class_restriction:medic;strange:Healing
-29x		#3002* SM75 Combat Flares (Equipment)		rarity:strange;strange:Missions
-28x		#1007* Vegas's Suit (Suit)		rarity:strange;class_restriction:tech;strange:Successful Missions
-27x		#1001* Wildcat's Suit (Suit)		rarity:strange;class_restriction:specialweapons;strange:Successful Missions
-25x		#1005* Wolfe's Suit (Suit)		rarity:strange;class_restriction:specialweapons;strange:Successful Missions
-25x		#2006* IAF Heal Beacon (Weapon)		rarity:strange;class_restriction:medic;strange:Allies Extinguished
-25x		#2024* IAF Medical Amplifier Gun (Weapon)		rarity:strange;class_restriction:medic;strange:Healing
-25x		#2024* IAF Medical Amplifier Gun (Weapon)		rarity:strange;class_restriction:medic;strange:Allies Extinguished
-24x		#1004* Jaeger's Suit (Suit)		rarity:strange;class_restriction:officer;strange:Aliens Killed
-24x		#3008* Adrenaline (Equipment)		rarity:strange;strange:Missions
-24x		#3012* Flashlight Attachment (Tactical Equipment)		rarity:strange;strange:Missions
-23x		#1000* Sarge's Suit (Suit)		rarity:strange;class_restriction:officer;strange:Aliens Killed
-23x		#1001* Wildcat's Suit (Suit)		rarity:strange;class_restriction:specialweapons;strange:Aliens Killed
-23x		#2011* IAF Medical Gun (Weapon)		rarity:strange;class_restriction:medic;strange:Healing
-23x		#2011* IAF Medical Gun (Weapon)		rarity:strange;class_restriction:medic;strange:Allies Extinguished
-22x		#2024* IAF Medical Amplifier Gun (Weapon)		rarity:strange;class_restriction:medic;strange:Missions
-20x		#1002* Faith's Suit (Suit)		rarity:strange;class_restriction:medic;strange:Aliens Killed
-20x		#1004* Jaeger's Suit (Suit)		rarity:strange;class_restriction:officer;strange:Successful Missions
-20x		#1006* Bastille's Suit (Suit)		rarity:strange;class_restriction:medic;strange:Aliens Killed
-20x		#1007* Vegas's Suit (Suit)		rarity:strange;class_restriction:tech;strange:Fast Hacks
-20x		#3010* v45 Electric Charged Armor (Equipment)		rarity:strange;strange:Missions
-20x		#3015* MNV34 Nightvision Goggles (Equipment)		rarity:strange;strange:Missions
-19x		#2005* IAF Advanced Sentry Gun (Weapon)		rarity:strange;strange:Missions
-19x		#2021* PS50 Bulldog (Weapon)		rarity:strange;strange:Aliens Killed
-19x		#2026* IAF Medical SMG (Weapon)		rarity:strange;class_restriction:medic;strange:Healing
-19x		#3004* l3a Tactical Heavy Armor (Equipment)		rarity:strange;strange:Missions
-19x		#3013* IAF Power Fist Attachment (Equipment)		rarity:strange;strange:Missions
-18x		#1002* Faith's Suit (Suit)		rarity:strange;class_restriction:medic;strange:Successful Missions
-18x		#1003* Crash's Suit (Suit)		rarity:strange;class_restriction:tech;strange:Successful Missions
-18x		#1003* Crash's Suit (Suit)		rarity:strange;class_restriction:tech;strange:Aliens Killed
-18x		#1006* Bastille's Suit (Suit)		rarity:strange;class_restriction:medic;strange:Healing
-18x		#3016* MTD6 Smart Bomb (Equipment)		rarity:strange;strange:Missions
-17x		#1002* Faith's Suit (Suit)		rarity:strange;class_restriction:medic;strange:Healing
-17x		#2010* Precision Rail Rifle (Weapon)		rarity:strange;strange:Aliens Killed
-17x		#2013* M868 Flamer Unit (Weapon)		rarity:strange;strange:Allies Extinguished
-17x		#2025* 22A5 Heavy Assault Rifle (Weapon)		rarity:strange;strange:Aliens Killed
-16x		#1005* Wolfe's Suit (Suit)		rarity:strange;class_restriction:specialweapons;strange:Aliens Killed
-16x		#1007* Vegas's Suit (Suit)		rarity:strange;class_restriction:tech;strange:Aliens Killed
-15x		#1003* Crash's Suit (Suit)		rarity:strange;class_restriction:tech;strange:Fast Hacks
-15x		#2000* 22A3-1 Assault Rifle (Weapon)		rarity:strange;strange:Missions
-15x		#2008* Model 35 Pump-action Shotgun (Weapon)		rarity:strange;strange:Missions
-15x		#2011* IAF Medical Gun (Weapon)		rarity:strange;class_restriction:medic;strange:Missions
-15x		#2014* IAF Freeze Sentry Gun (Weapon)		rarity:strange;strange:Enemies Frozen
-14x		#1006* Bastille's Suit (Suit)		rarity:strange;class_restriction:medic;strange:Successful Missions
-14x		#2008* Model 35 Pump-action Shotgun (Weapon)		rarity:strange;strange:Aliens Killed
-14x		#2012* K80 Personal Defense Weapon (Weapon)		rarity:strange;strange:Aliens Killed
-14x		#2020* Grenade Launcher (Weapon)		rarity:strange;strange:Missions
-13x		#2004* M73 Twin Pistols (Weapon)		rarity:strange;strange:Aliens Killed
+381x		#4017 Data Storage Medium (Crafting Item)		rarity:rare;crafting_item:computer_part
+362x		#4015 Memory Management Unit (Crafting Item)		rarity:rare;crafting_item:computer_part
+126x		#2001* 22A7-Z Prototype Assault Rifle (Weapon)		rarity:strange;class_restriction:tech;strange:Aliens Killed
+121x		#3001* Hand Welder (Equipment)		rarity:strange;strange:Missions
+110x		#2001* 22A7-Z Prototype Assault Rifle (Weapon)		rarity:strange;class_restriction:tech;strange:Missions
+85x		#3005* X33 Damage Amplifier (Equipment)		rarity:strange;strange:Missions
+71x		#5003 Healing (Strange Device)		strange:5003
+69x		#2018* Chainsaw (Weapon)		rarity:strange;strange:Aliens Killed
+65x		#5006 Allies Extinguished (Strange Device)		strange:5006
+63x		#5005 Enemies Frozen (Strange Device)		strange:5005
+59x		#5002 Aliens Killed (Strange Device)		strange:5002
+54x		#5001 Successful Missions (Strange Device)		strange:5001
+53x		#3011* M478 Proximity Incendiary Mines (Equipment)		rarity:strange;class_restriction:officer;strange:Aliens Killed
+51x		#2003* M42 Vindicator (Weapon)		rarity:strange;class_restriction:officer;strange:Missions
+51x		#5000 Missions (Strange Device)		strange:5000
+49x		#3012* Flashlight Attachment (Tactical Equipment)		rarity:strange;strange:Missions
+48x		#2003* M42 Vindicator (Weapon)		rarity:strange;class_restriction:officer;strange:Aliens Killed
+45x		#2015* IAF Minigun (Weapon)		rarity:strange;class_restriction:specialweapons;strange:Missions
+45x		#2022* IAF HAS42 Devastator (Weapon)		rarity:strange;class_restriction:specialweapons;strange:Aliens Killed
+45x		#3011* M478 Proximity Incendiary Mines (Equipment)		rarity:strange;class_restriction:officer;strange:Missions
+44x		#2002* S23A SynTek Autogun (Weapon)		rarity:strange;class_restriction:specialweapons;strange:Aliens Killed
+42x		#2020* Grenade Launcher (Weapon)		rarity:strange;strange:Missions
+41x		#2015* IAF Minigun (Weapon)		rarity:strange;class_restriction:specialweapons;strange:Aliens Killed
+39x		#2002* S23A SynTek Autogun (Weapon)		rarity:strange;class_restriction:specialweapons;strange:Missions
+39x		#5004 Fast Hacks (Strange Device)		strange:5004
+37x		#2022* IAF HAS42 Devastator (Weapon)		rarity:strange;class_restriction:specialweapons;strange:Missions
+37x		#3007* CR18 Freeze Grenades (Equipment)		rarity:strange;strange:Allies Extinguished
+37x		#3010* v45 Electric Charged Armor (Equipment)		rarity:strange;strange:Missions
+36x		#2007* IAF Ammo Satchel (Weapon)		rarity:strange;strange:Missions
+36x		#3002* SM75 Combat Flares (Equipment)		rarity:strange;strange:Missions
+34x		#2020* Grenade Launcher (Weapon)		rarity:strange;strange:Aliens Killed
+34x		#3015* MNV34 Nightvision Goggles (Equipment)		rarity:strange;strange:Missions
+32x		#2018* Chainsaw (Weapon)		rarity:strange;strange:Missions
+30x		#3007* CR18 Freeze Grenades (Equipment)		rarity:strange;strange:Enemies Frozen
+28x		#3008* Adrenaline (Equipment)		rarity:strange;strange:Missions
+26x		#2016* AVK-36 Marksman Rifle (Weapon)		rarity:strange;strange:Aliens Killed
+26x		#2024* IAF Medical Amplifier Gun (Weapon)		rarity:strange;class_restriction:medic;strange:Healing
+25x		#1003* Crash's Suit (Suit)		rarity:strange;class_restriction:tech;strange:Aliens Killed
+24x		#3007* CR18 Freeze Grenades (Equipment)		rarity:strange;strange:Missions
+23x		#2006* IAF Heal Beacon (Weapon)		rarity:strange;class_restriction:medic;strange:Missions
+23x		#2019* IAF High Velocity Sentry Cannon (Weapon)		rarity:strange;strange:Missions
+23x		#3004* l3a Tactical Heavy Armor (Equipment)		rarity:strange;strange:Missions
+23x		#3017* TG-05 Gas Grenades (Equipment)		rarity:strange;class_restriction:medic;strange:Missions
+22x		#2004* M73 Twin Pistols (Weapon)		rarity:strange;strange:Aliens Killed
+22x		#2010* Precision Rail Rifle (Weapon)		rarity:strange;strange:Aliens Killed
+22x		#3009* IAF Tesla Sentry Coil (Equipment)		rarity:strange;strange:Missions
+22x		#3016* MTD6 Smart Bomb (Equipment)		rarity:strange;strange:Missions
+22x		#3017* TG-05 Gas Grenades (Equipment)		rarity:strange;class_restriction:medic;strange:Aliens Killed
+21x		#3003* ML30 Laser Trip Mine (Equipment)		rarity:strange;strange:Missions
+21x		#3014* FG01 Hand Grenades (Equipment)		rarity:strange;strange:Aliens Killed
+20x		#2011* IAF Medical Gun (Weapon)		rarity:strange;class_restriction:medic;strange:Missions
+20x		#2012* K80 Personal Defense Weapon (Weapon)		rarity:strange;strange:Missions
+20x		#2016* AVK-36 Marksman Rifle (Weapon)		rarity:strange;strange:Missions
+20x		#2021* PS50 Bulldog (Weapon)		rarity:strange;strange:Missions
+19x		#2017* IAF Incendiary Sentry Gun (Weapon)		rarity:strange;strange:Missions
+19x		#3006* Hornet Barrage (Equipment)		rarity:strange;strange:Missions
+18x		#2000* 22A3-1 Assault Rifle (Weapon)		rarity:strange;strange:Aliens Killed
+18x		#2005* IAF Advanced Sentry Gun (Weapon)		rarity:strange;strange:Missions
+18x		#2005* IAF Advanced Sentry Gun (Weapon)		rarity:strange;strange:Aliens Killed
+18x		#2017* IAF Incendiary Sentry Gun (Weapon)		rarity:strange;strange:Aliens Killed
+18x		#2024* IAF Medical Amplifier Gun (Weapon)		rarity:strange;class_restriction:medic;strange:Missions
+18x		#3006* Hornet Barrage (Equipment)		rarity:strange;strange:Aliens Killed
+18x		#3016* MTD6 Smart Bomb (Equipment)		rarity:strange;strange:Aliens Killed
+17x		#2011* IAF Medical Gun (Weapon)		rarity:strange;class_restriction:medic;strange:Allies Extinguished
+17x		#2025* 22A5 Heavy Assault Rifle (Weapon)		rarity:strange;strange:Missions
+17x		#2026* IAF Medical SMG (Weapon)		rarity:strange;class_restriction:medic;strange:Missions
+17x		#3014* FG01 Hand Grenades (Equipment)		rarity:strange;strange:Missions
+16x		#1006* Bastille's Suit (Suit)		rarity:strange;class_restriction:medic;strange:Healing
+16x		#2000* 22A3-1 Assault Rifle (Weapon)		rarity:strange;strange:Missions
+16x		#2004* M73 Twin Pistols (Weapon)		rarity:strange;strange:Missions
+16x		#2008* Model 35 Pump-action Shotgun (Weapon)		rarity:strange;strange:Missions
+16x		#2011* IAF Medical Gun (Weapon)		rarity:strange;class_restriction:medic;strange:Healing
+16x		#2019* IAF High Velocity Sentry Cannon (Weapon)		rarity:strange;strange:Aliens Killed
+16x		#2024* IAF Medical Amplifier Gun (Weapon)		rarity:strange;class_restriction:medic;strange:Allies Extinguished
+16x		#3013* IAF Power Fist Attachment (Equipment)		rarity:strange;strange:Missions
+15x		#1004* Jaeger's Suit (Suit)		rarity:strange;class_restriction:officer;strange:Aliens Killed
+15x		#1005* Wolfe's Suit (Suit)		rarity:strange;class_restriction:specialweapons;strange:Aliens Killed
+15x		#1007* Vegas's Suit (Suit)		rarity:strange;class_restriction:tech;strange:Aliens Killed
+15x		#2014* IAF Freeze Sentry Gun (Weapon)		rarity:strange;strange:Missions
+15x		#2021* PS50 Bulldog (Weapon)		rarity:strange;strange:Aliens Killed
+15x		#2026* IAF Medical SMG (Weapon)		rarity:strange;class_restriction:medic;strange:Aliens Killed
+15x		#3003* ML30 Laser Trip Mine (Equipment)		rarity:strange;strange:Aliens Killed
+15x		#3013* IAF Power Fist Attachment (Equipment)		rarity:strange;strange:Aliens Killed
+14x		#1000* Sarge's Suit (Suit)		rarity:strange;class_restriction:officer;strange:Successful Missions
+14x		#1007* Vegas's Suit (Suit)		rarity:strange;class_restriction:tech;strange:Successful Missions
+14x		#2023* 22A4-2 Combat Rifle (Weapon)		rarity:strange;strange:Missions
+14x		#3009* IAF Tesla Sentry Coil (Equipment)		rarity:strange;strange:Aliens Killed
+13x		#1000* Sarge's Suit (Suit)		rarity:strange;class_restriction:officer;strange:Aliens Killed
+13x		#1002* Faith's Suit (Suit)		rarity:strange;class_restriction:medic;strange:Healing
+13x		#2006* IAF Heal Beacon (Weapon)		rarity:strange;class_restriction:medic;strange:Healing
+13x		#2009* IAF Tesla Cannon (Weapon)		rarity:strange;strange:Missions
 13x		#2009* IAF Tesla Cannon (Weapon)		rarity:strange;strange:Aliens Killed
-13x		#2016* AVK-36 Marksman Rifle (Weapon)		rarity:strange;strange:Missions
-13x		#2019* IAF High Velocity Sentry Cannon (Weapon)		rarity:strange;strange:Aliens Killed
+13x		#2010* Precision Rail Rifle (Weapon)		rarity:strange;strange:Missions
+13x		#2012* K80 Personal Defense Weapon (Weapon)		rarity:strange;strange:Aliens Killed
+13x		#2014* IAF Freeze Sentry Gun (Weapon)		rarity:strange;strange:Enemies Frozen
+13x		#2023* 22A4-2 Combat Rifle (Weapon)		rarity:strange;strange:Aliens Killed
 13x		#2026* IAF Medical SMG (Weapon)		rarity:strange;class_restriction:medic;strange:Allies Extinguished
-12x		#2000* 22A3-1 Assault Rifle (Weapon)		rarity:strange;strange:Aliens Killed
-12x		#2010* Precision Rail Rifle (Weapon)		rarity:strange;strange:Missions
-12x		#2012* K80 Personal Defense Weapon (Weapon)		rarity:strange;strange:Missions
-12x		#2016* AVK-36 Marksman Rifle (Weapon)		rarity:strange;strange:Aliens Killed
-12x		#2019* IAF High Velocity Sentry Cannon (Weapon)		rarity:strange;strange:Missions
-12x		#2020* Grenade Launcher (Weapon)		rarity:strange;strange:Aliens Killed
-12x		#2026* IAF Medical SMG (Weapon)		rarity:strange;class_restriction:medic;strange:Missions
-12x		#3003* ML30 Laser Trip Mine (Equipment)		rarity:strange;strange:Aliens Killed
-12x		#3006* Hornet Barrage (Equipment)		rarity:strange;strange:Missions
-12x		#3006* Hornet Barrage (Equipment)		rarity:strange;strange:Aliens Killed
-12x		#3014* FG01 Hand Grenades (Equipment)		rarity:strange;strange:Missions
-12x		#3014* FG01 Hand Grenades (Equipment)		rarity:strange;strange:Aliens Killed
-11x		#2005* IAF Advanced Sentry Gun (Weapon)		rarity:strange;strange:Aliens Killed
-11x		#2013* M868 Flamer Unit (Weapon)		rarity:strange;strange:Aliens Killed
-11x		#2023* 22A4-2 Combat Rifle (Weapon)		rarity:strange;strange:Missions
-11x		#2026* IAF Medical SMG (Weapon)		rarity:strange;class_restriction:medic;strange:Aliens Killed
-11x		#3009* IAF Tesla Sentry Coil (Equipment)		rarity:strange;strange:Aliens Killed
-10x		#2004* M73 Twin Pistols (Weapon)		rarity:strange;strange:Missions
-9x		#2009* IAF Tesla Cannon (Weapon)		rarity:strange;strange:Missions
-9x		#2013* M868 Flamer Unit (Weapon)		rarity:strange;strange:Missions
-9x		#2014* IAF Freeze Sentry Gun (Weapon)		rarity:strange;strange:Missions
-9x		#3000* IAF Personal Healing Kit (Equipment)		rarity:strange;strange:Healing
-9x		#3009* IAF Tesla Sentry Coil (Equipment)		rarity:strange;strange:Missions
-8x		#2021* PS50 Bulldog (Weapon)		rarity:strange;strange:Missions
+12x		#1002* Faith's Suit (Suit)		rarity:strange;class_restriction:medic;strange:Successful Missions
+12x		#1003* Crash's Suit (Suit)		rarity:strange;class_restriction:tech;strange:Successful Missions
+12x		#1006* Bastille's Suit (Suit)		rarity:strange;class_restriction:medic;strange:Successful Missions
+12x		#1006* Bastille's Suit (Suit)		rarity:strange;class_restriction:medic;strange:Aliens Killed
+12x		#2006* IAF Heal Beacon (Weapon)		rarity:strange;class_restriction:medic;strange:Allies Extinguished
+11x		#1007* Vegas's Suit (Suit)		rarity:strange;class_restriction:tech;strange:Fast Hacks
+11x		#2008* Model 35 Pump-action Shotgun (Weapon)		rarity:strange;strange:Aliens Killed
+11x		#2025* 22A5 Heavy Assault Rifle (Weapon)		rarity:strange;strange:Aliens Killed
+10x		#1001* Wildcat's Suit (Suit)		rarity:strange;class_restriction:specialweapons;strange:Successful Missions
+10x		#1001* Wildcat's Suit (Suit)		rarity:strange;class_restriction:specialweapons;strange:Aliens Killed
+10x		#1005* Wolfe's Suit (Suit)		rarity:strange;class_restriction:specialweapons;strange:Successful Missions
+10x		#2013* M868 Flamer Unit (Weapon)		rarity:strange;strange:Missions
+10x		#2013* M868 Flamer Unit (Weapon)		rarity:strange;strange:Allies Extinguished
+10x		#2026* IAF Medical SMG (Weapon)		rarity:strange;class_restriction:medic;strange:Healing
+9x		#2013* M868 Flamer Unit (Weapon)		rarity:strange;strange:Aliens Killed
 8x		#3000* IAF Personal Healing Kit (Equipment)		rarity:strange;strange:Missions
-8x		#3003* ML30 Laser Trip Mine (Equipment)		rarity:strange;strange:Missions
-8x		#3013* IAF Power Fist Attachment (Equipment)		rarity:strange;strange:Aliens Killed
-8x		#3016* MTD6 Smart Bomb (Equipment)		rarity:strange;strange:Aliens Killed
-7x		#2017* IAF Incendiary Sentry Gun (Weapon)		rarity:strange;strange:Missions
+7x		#1002* Faith's Suit (Suit)		rarity:strange;class_restriction:medic;strange:Aliens Killed
+7x		#3000* IAF Personal Healing Kit (Equipment)		rarity:strange;strange:Healing
+6x		#1003* Crash's Suit (Suit)		rarity:strange;class_restriction:tech;strange:Fast Hacks
+6x		#1004* Jaeger's Suit (Suit)		rarity:strange;class_restriction:officer;strange:Successful Missions
 6x		#3000* IAF Personal Healing Kit (Equipment)		rarity:strange;strange:Allies Extinguished
-5x		#2017* IAF Incendiary Sentry Gun (Weapon)		rarity:strange;strange:Aliens Killed
-5x		#2023* 22A4-2 Combat Rifle (Weapon)		rarity:strange;strange:Aliens Killed
-4x		#2025* 22A5 Heavy Assault Rifle (Weapon)		rarity:strange;strange:Missions
