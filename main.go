@@ -32,8 +32,8 @@ func main() {
 	if true {
 		// potential daily drops for simulated players
 		const (
-			daysForSimulation = 30
-			dailyPlayerCount  = 5000
+			daysForSimulation = 7
+			dailyPlayerCount  = 10000
 
 			playtime15MinutesWeight  = 10  // 0.25 hours
 			playtime30MinutesWeight  = 100 // 0.5 hours
